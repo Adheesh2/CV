@@ -1,0 +1,38 @@
+body{
+    background-color: #DBE2EF;
+}
+
+.profile{
+    border-radius: 200px;
+    height: 15rem;
+    width: 15rem;
+}
+
+/* hr{
+    border-style:none;
+    border-top-style:dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+} */
+
+hr{
+    border-style: solid;
+    border-color:grey;
+    width: 40%;
+}
+
+h1{
+    background-color: #93BFCF;
+    color: #144272;
+}
+
+h2{
+    color: #205295;
+    background-color: #93BFCF;
+}
+
+/* table th{
+    background-color:#93BFCF ;
+} */
+
